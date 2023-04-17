@@ -1,0 +1,14 @@
+{
+  "name": "js-constructor",
+  "version": "1.0.0",
+  "description": "javascript pure application",
+  "main": "main.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 3600 --open"
+  },
+  "author": "neakahi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
